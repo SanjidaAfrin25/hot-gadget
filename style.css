@@ -1,0 +1,53 @@
+.pp{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: 40%;
+}
+.card{
+    box-shadow: 5px 5px  5px  4px lightgray;
+}
+.bb{
+    text-align: center;
+}
+.top { 
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 10px lightgray;
+    width:50%;
+    length:50%;
+    border-radius: 5px;
+    }
+img.bottom { vertical-align: text-bottom;
+  
+  
+   margin-right: 200px;
+   margin-top: 25px;
+}
+.bottom{
+    box-shadow: 5px 5px 5px 10px lightgray;
+    width: 50%;
+    length:50%;
+    border-radius: 5px;
+}
+
+.first{
+
+    margin-left: 177px;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 10px lightgray;
+    border-radius: 5px;
+    width: 45%;
+    length:50%;
+}
+.bag{
+    text-align: center;
+}
+.space{
+
+    margin-top: 100px;
+}
+.mm{
+    color:yellow;
+    margin-left:95%;
+}
